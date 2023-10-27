@@ -21,7 +21,6 @@ void AFiringActorPureCPP::BeginPlay()
 {
 	Super::BeginPlay();
 	Timer = FirePeriod;
-	
 }
 
 // Called every frame

@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// have a nice day :)
 
 #pragma once
 
@@ -27,7 +27,7 @@ protected:
 public:
 
 	virtual void Initialize(FSubsystemCollectionBase& Collections) override;
-	
+
 	UFUNCTION(BlueprintCallable)
 	void AddNumProjectiles(const int Value);
 
