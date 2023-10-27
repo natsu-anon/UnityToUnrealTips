@@ -8,6 +8,10 @@ Practical references for Unreal Engine.
 
 A friendly note regarding design patterns & code architecture: there's _DEFINITELY_ a point of diminishing returns. If concern over properly architecting your code is getting in the way of actually making your game just write "terrible" code.  When someone's playing your game they don't care _how_ you did it just whether or not it's fun.
 
+## TOOLS
+
+* [renom](https://github.com/UnrealisticDev/Renom) to rename your project (because I always give them goofy names at first)
+
 ## Unreal
 
 For the unreal engine site: (1) there should be a dropdown on the top left that you can use to select your version and (2) the API pages (and probably the rest of the site) is hot garbage on mobile.
